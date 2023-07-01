@@ -6,7 +6,7 @@
 ### 3、掌握数据库应用开发程序设计方法。
 
 ## 二、实验平台
-###开发工具：eclipse；数据库平台：Mysql。
+### 开发工具：eclipse；数据库平台：Mysql。
 
 ## 三、实验概述
 ![Alt text](image.png)
